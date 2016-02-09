@@ -1,1 +1,1 @@
-hand(pchiptx)
+hand(@pchiptx)
